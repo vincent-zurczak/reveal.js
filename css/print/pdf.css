@@ -109,7 +109,7 @@ ul, ol, div, p {
 	position: relative !important;
 
 	margin: 0 !important;
-	padding: 0 !important;
+	padding: 10px !important;
 	box-sizing: border-box !important;
 	min-height: 1px;
 
